@@ -22,3 +22,4 @@ I have been using hundreds of software for my MacBook pro for more than 10 years
 17. [OBS Studio](https://obsproject.com/) - Open Broadcaster Software which is Free and open source software for video recording and live streaming.
 18. [Maccy](https://maccy.app/) - Clipboard manager for macOS which does one job - keep your copy history at hand. Period. Lightweight. Open source. No fluff.
 19. [AppCleaner](https://freemacsoft.net/appcleaner/) - AppCleaner is a small application which allows you to thoroughly uninstall unwanted apps.
+20. [Kap](https://getkap.co/) - Capture your screen. An open-source screen recorder built with web technology.
