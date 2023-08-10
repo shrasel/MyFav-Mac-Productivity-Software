@@ -1,7 +1,5 @@
 # Ultimate Open Source and Free Software Collection for macOS Productivity
 
-![Header Image](header_image.png)
-
 Welcome to the ultimate compilation of open source and free software for macOS, curated over a decade of experience with numerous tools. This collection showcases the best-of-breed applications that can elevate your productivity on your MacBook Pro. These tools have been carefully selected based on their quality, versatility, and impact on enhancing your workflow.
 
 ## Table of Contents
