@@ -42,6 +42,7 @@ Welcome to the ultimate compilation of open source and free software for macOS, 
 18. [Maccy](https://maccy.app/) - Clipboard manager for macOS which does one job - keep your copy history at hand. Period. Lightweight. Open source. No fluff.
 19. [AppCleaner](https://freemacsoft.net/appcleaner/) - AppCleaner is a small application which allows you to thoroughly uninstall unwanted apps.
 20. [Kap](https://getkap.co/) - Capture your screen. An open-source screen recorder built with web technology.
+21. [eul](https://github.com/gao-sun/eul) - MacOS status monitoring app written in SwiftUI.
 
 ## Why This Collection
 
